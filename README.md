@@ -1,6 +1,9 @@
 # 08实现一个Webpack Loader——my-html-loader
 实现一个html-loader，当检查到加载的文件是以.html为后缀，就使用我们的my-html-loader进行编译
 
+## 代码路径
+loaders/my-html-loader.js
+
 # Project setup
 ```
 npm install
